@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+}
+.borda{
+border-bottom: 2px;
+}
+
+.títuloprincipalf{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-;
+    background-color: rgb(24, 22, 133);
+    color: rgb(252, 249, 249);
+    text-align: center;
+}
+
+.títuloprincipalh{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-;
+    background-color: rgb(209, 7, 7);
+    color: rgb(252, 249, 249);
+    text-align: center;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+}
+
+a{
+    color: rgb(24, 13, 177);
+    text-decoration-line: none;
+}
+
+a:hover{
+    color: rgb(255, 8, 0);
+    text-decoration-line: none;
+}
+
+.link{
+    text-align: left!important;
+}
+
+hr{
+    border-width: 20px;
+    border-color: rgb(24, 13, 177); 
+}
